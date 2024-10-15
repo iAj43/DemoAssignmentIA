@@ -6,6 +6,15 @@ Implementation of incoming call notifications (including custom notification) li
 ## Requirements
 - iOS 13 or later
 
+## Run
+To run the project, clone the repo and run
+
+## Used
+iOS Swift
+
+## Author
+Irfan Ajmeri
+
 ## Video
 https://github.com/user-attachments/assets/1762b73e-0129-4973-adbd-4716319ec06f
 
@@ -17,12 +26,3 @@ https://github.com/user-attachments/assets/1762b73e-0129-4973-adbd-4716319ec06f
 ![05-Screenshot](https://github.com/user-attachments/assets/4a9374af-f0fd-4499-a858-aacb033f251e)
 ![06-Screenshot](https://github.com/user-attachments/assets/0ed9f4e0-d6da-49b6-ac24-bec5f1d93476)
 ![07-Screenshot](https://github.com/user-attachments/assets/f9a8df1b-759d-4f7f-8bc9-287b8ab5ce4d)
-
-## Run
-To run the project, clone the repo and run
-
-## Used
-iOS Swift
-
-## Author
-Irfan Ajmeri
