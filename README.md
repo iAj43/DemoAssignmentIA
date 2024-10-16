@@ -13,7 +13,7 @@ To run the project, clone the repo and run
 iOS Swift
 
 ## Author
-Irfan Ajmeri
+IA
 
 ## Video
 https://github.com/user-attachments/assets/1762b73e-0129-4973-adbd-4716319ec06f
