@@ -1,7 +1,7 @@
 # DemoAssignmentIA
-Implementation of incoming call notifications (including custom notification) like WhatsApp with CallKit & UNNotificationContentExtension
+This repository implements incoming call notifications, including customizable notifications similar to those in WhatsApp, using CallKit and UNNotificationContentExtension.
 
-(Developer note: We can migrate this demo implementation to actual implementation with the help of PushKit and Remote Push Notification but that requires paid Apple Developer Account)
+Developer Note: This demo implementation can be transitioned to a fully functional version with the integration of PushKit, VoIP and Remote PushNotification, but this will require a paid Apple Developer account.
 
 ## Requirements
 - iOS 13 or later
